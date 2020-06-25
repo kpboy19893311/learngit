@@ -1,2 +1,1 @@
-### learngit
-#### now we work in HSBC.
+##本项目用来学习和连接JAVA
